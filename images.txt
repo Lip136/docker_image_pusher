@@ -10,4 +10,5 @@ nvidia/cuda:11.7.1-cudnn8-devel-ubuntu22.04
 ghcr.io/huggingface/text-embeddings-inference:86-1.2
 ghcr.io/huggingface/text-embeddings-inference:turing-1.2
 ghcr.io/huggingface/text-embeddings-inference:cpu-0.6
-instill/tritonserver:22.05-py3
+nvcr.io/nvidia/tritonserver:22.07-py3
+nvcr.io/nvidia/tensorrt:22.07-py3
