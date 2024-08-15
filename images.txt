@@ -12,3 +12,5 @@ ghcr.io/huggingface/text-embeddings-inference:turing-1.2
 ghcr.io/huggingface/text-embeddings-inference:cpu-0.6
 nvcr.io/nvidia/tritonserver:22.07-py3
 nvcr.io/nvidia/tensorrt:22.07-py3
+ghcr.io/huggingface/text-embeddings-inference:cpu-1.5
+ghcr.io/huggingface/text-embeddings-inference:86-1.5
